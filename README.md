@@ -1,16 +1,26 @@
-## Hi there 👋
+🚀 **Rust & AI Engineer  |  Machine Learning Enthusiast  |  Open Source Contributor**
 
-<!--
-**wizardev-sol/wizardev-sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Rust, Python, TypeScript, C++
+- **AI / ML:** PyTorch, TensorFlow, ONNX, rust‑ml ecosystem
+- **Blockchain / Web3:** Solana, Anchor, EVM, Rust smart contracts
+- **Tools & Libraries:** linfa, ndarray, tch-rs, tract, ndarray‑linalg, Hugging Face
+
+---
+
+## 🔭 Current Projects
+
+- **Rust AI Agents** – Building lightweight, multi-threaded AI agents in Rust for local execution.  
+- **ML Libraries in Rust** – Contributing to Rust Crate and other Rust ML projects.  
+- **Web3 + AI Bots** – Developing Solana arbitrage and sniping bots with AI-based decision making.  
+
+---
+
+## 🌱 Learning & Growth
+
+- Large Language Model deployment & optimization in Rust  
+- Cross-chain AI-powered blockchain analytics  
+- Advanced Rust concurrency and memory optimization
