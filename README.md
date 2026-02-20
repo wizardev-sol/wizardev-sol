@@ -1,26 +1,28 @@
-🚀 **Rust & AI Engineer  |  Machine Learning Enthusiast  |  Open Source Contributor**
+# Blockchain & Web3 AI Full-Stack Developer
 
----
+🚀 Building high-performance blockchain trading bots, AI agents, and Web3 infrastructure.
 
-## 🧰 Tech Stack
+## 🔥 About Me
 
-- **Languages:** Rust, Python, TypeScript, C++
-- **AI / ML:** PyTorch, TensorFlow, ONNX, rust‑ml ecosystem
-- **Blockchain / Web3:** Solana, Anchor, EVM, Rust smart contracts
-- **Tools & Libraries:** linfa, ndarray, tch-rs, tract, ndarray‑linalg, Hugging Face
+I am a Blockchain / Web3 developer specializing in:
 
----
+- Solana & Rust smart contracts
+- Ethereum & EVM development
+- DeFi trading bots & MEV systems
+- AI-powered crypto automation
+- Full-stack Web3 applications (React, TypeScript, Node.js)
 
-## 🔭 Current Projects
+## 🛠 Tech Stack
 
-- **Rust AI Agents** – Building lightweight, multi-threaded AI agents in Rust for local execution.  
-- **ML Libraries in Rust** – Contributing to Rust Crate and other Rust ML projects.  
-- **Web3 + AI Bots** – Developing Solana arbitrage and sniping bots with AI-based decision making.  
+Blockchain:
+Solana, Ethereum, EVM, Anchor, Web3.js, ethers.js
 
----
+Languages:
+Rust, TypeScript, JavaScript, Python
 
-## 🌱 Learning & Growth
+AI:
+LLM integration, AI agents, automation systems
 
-- Large Language Model deployment & optimization in Rust  
-- Cross-chain AI-powered blockchain analytics  
-- Advanced Rust concurrency and memory optimization
+## 📫 Contact
+- X (Twitter): https://x.com/wizardev_sol
+- Telegram: https://t.me/vvizardev
